@@ -1,11 +1,11 @@
 
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹•Í­
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ß
-L
-java:S1854"7Remove this useless assignment to local variable "per".(€ín
 V	java:S125"<This block of commented-out lines of code should be removed.(Ìè›Šÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹•Í­
 K
 java:S1751"5Remove this "break" statement or make it conditional.(›ûä·
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…ß
 Q	java:S125"<This block of commented-out lines of code should be removed.(»·§Ò
 C
 java:S1481"(Remove this unused "per" local variable.(ÿÁĞ®øÿÿÿÿ
+L
+java:S1854"7Remove this useless assignment to local variable "per".(€ín

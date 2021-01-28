@@ -1,42 +1,42 @@
 
-X	java:S125u"<This block of commented-out lines of code should be removed.(òÿœ§8ë¥¥åİ.
-X	java:S125"<This block of commented-out lines of code should be removed.(²›İş8«‘Çãİ.
-Y	java:S125"<This block of commented-out lines of code should be removed.(²ğ¦°8ÄÓåİ.
+F
+java:S1481")Remove this unused "map2" local variable.(ªŞÍ8§‚Îâİ.
+n	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ô™Ö8·Ò†æİ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğƒ‘Š8¥ÜÙâİ.
+X	java:S1259"<This block of commented-out lines of code should be removed.(İƒ®•8†Â¡ãİ.
 P
 java:S1199ì"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Ş¬Øæİ.
 F
-java:S1481")Remove this unused "map2" local variable.(ªŞÍ8§‚Îâİ.
-m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğƒ‘Š8¥ÜÙâİ.
-U
-java:S1854"8Remove this useless assignment to local variable "map4".(ë¢éÚ8½œÍâİ.
+java:S1481	")Remove this unused "map1" local variable.(Ğï8éşÌâİ.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šÉ‹Î
-Y	java:S125š"<This block of commented-out lines of code should be removed.( Øé 8ÆÀÉåİ.
 U
 java:S1854"8Remove this useless assignment to local variable "map2".(ªŞÍ8½œÍâİ.
-]	java:S125M"<This block of commented-out lines of code should be removed.(Ü‰ûıÿÿÿÿ8¿¶Ïãİ.
-W	java:S125r"<This block of commented-out lines of code should be removed.(èŸƒg8Ù‰åİ.
+]	java:S125."<This block of commented-out lines of code should be removed.(±¸Ñ‡øÿÿÿÿ8€Ù‰ãİ.
 K	java:S108ì")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿ8Ëõáæİ.
-^	java:S125×"<This block of commented-out lines of code should be removed.(æ”Àõûÿÿÿÿ8ÓéÄæİ.
-s	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ËÑÓÿÿÿÿÿ8”ğ€æİ.
-^	java:S125Í"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ8©Ü®æİ.
-X	java:S125Õ"<This block of commented-out lines of code should be removed.(çáì$8³§Úæİ.
-F
-java:S1481")Remove this unused "map4" local variable.(ë¢éÚ8§‚Îâİ.
 U
 java:S1854	"8Remove this useless assignment to local variable "map1".(Ğï8éşÌâİ.
-]	java:S125."<This block of commented-out lines of code should be removed.(±¸Ñ‡øÿÿÿÿ8€Ù‰ãİ.
-X	java:S1259"<This block of commented-out lines of code should be removed.(İƒ®•8†Â¡ãİ.
-V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ÚÄèá8óÈâæİ.
-K
-java:S1481")Remove this unused "map3" local variable.(©£œıÿÿÿÿ8§‚Îâİ.
-n	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë©•8·Ò†æİ.
+s	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ËÑÓÿÿÿÿÿ8”ğ€æİ.
 x
 java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©£œıÿÿÿÿ8í•Ğâİ.
+U
+java:S1854"8Remove this useless assignment to local variable "map4".(ë¢éÚ8½œÍâİ.
 ]	java:S125"<This block of commented-out lines of code should be removed.(Íã©àøÿÿÿÿ8÷åâİ.
-X	java:S125_"<This block of commented-out lines of code should be removed.(“ã–8Ÿõòäİ.
+n	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë©•8·Ò†æİ.
+X	java:S125"<This block of commented-out lines of code should be removed.(²›İş8«‘Çãİ.
+X	java:S125Õ"<This block of commented-out lines of code should be removed.(çáì$8³§Úæİ.
+^	java:S125×"<This block of commented-out lines of code should be removed.(æ”Àõûÿÿÿÿ8ÓéÄæİ.
+W	java:S125r"<This block of commented-out lines of code should be removed.(èŸƒg8Ù‰åİ.
+^	java:S125Û"<This block of commented-out lines of code should be removed.(úü÷Êüÿÿÿÿ8ıÌÈæİ.
+Y	java:S125"<This block of commented-out lines of code should be removed.(²ğ¦°8ÄÓåİ.
 Z
 java:S1854"8Remove this useless assignment to local variable "map3".(©£œıÿÿÿÿ8½œÍâİ.
-n	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ô™Ö8·Ò†æİ.
+^	java:S125Í"<This block of commented-out lines of code should be removed.(ƒ”Ãçÿÿÿÿÿ8©Ü®æİ.
+Y	java:S125š"<This block of commented-out lines of code should be removed.( Øé 8ÆÀÉåİ.
+K
+java:S1481")Remove this unused "map3" local variable.(©£œıÿÿÿÿ8§‚Îâİ.
+]	java:S125M"<This block of commented-out lines of code should be removed.(Ü‰ûıÿÿÿÿ8¿¶Ïãİ.
+X	java:S125u"<This block of commented-out lines of code should be removed.(òÿœ§8ë¥¥åİ.
+X	java:S125_"<This block of commented-out lines of code should be removed.(“ã–8Ÿõòäİ.
 F
-java:S1481	")Remove this unused "map1" local variable.(Ğï8éşÌâİ.
-^	java:S125Û"<This block of commented-out lines of code should be removed.(úü÷Êüÿÿÿÿ8ıÌÈæİ.
+java:S1481")Remove this unused "map4" local variable.(ë¢éÚ8§‚Îâİ.
+V	java:S106ğ"9Replace this use of System.out or System.err by a logger.(ÚÄèá8óÈâæİ.

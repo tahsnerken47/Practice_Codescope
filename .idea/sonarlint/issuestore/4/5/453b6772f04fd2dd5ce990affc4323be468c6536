@@ -1,18 +1,16 @@
 
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Û¾8şìóÂİ.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(°×ëÃ8”‘şÄİ.
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¤ïÃÄİ.
-`
-java:S1155"">Use isEmpty() to check whether the collection is empty or not.(Å¹„şÿÿÿÿ8ıóûÄİ.
 ]	java:S125"<This block of commented-out lines of code should be removed.(¬Ñ¤…úÿÿÿÿ8¥÷ôÄİ.
 ]	java:S125"<This block of commented-out lines of code should be removed.(…ß µøÿÿÿÿ8ƒîÃİ.
-]	java:S125"<This block of commented-out lines of code should be removed.(Ú§å’ÿÿÿÿÿ8¢˜ÿÄİ.
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(éÌ¾Òúÿÿÿÿ8ıóûÄİ.
-r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ßô‚ıÿÿÿÿ8ƒ˜ùÂİ.
+X	java:S125"<This block of commented-out lines of code should be removed.(±Å£õ8™˜Ãİ.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§ßô‚ıÿÿÿÿ8ƒ˜ùÂİ.
-X	java:S125"<This block of commented-out lines of code should be removed.(±Å£õ8™˜Ãİ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±Û¾8şìóÂİ.
 c
 java:S1192"FDefine a constant instead of duplicating this literal "Aalia" 3 times.(««¦¨8™˜Ãİ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(°×ëÃ8”‘şÄİ.
+`
+java:S1155"">Use isEmpty() to check whether the collection is empty or not.(Å¹„şÿÿÿÿ8ıóûÄİ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ßô‚ıÿÿÿÿ8ƒ˜ùÂİ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(éÌ¾Òúÿÿÿÿ8ıóûÄİ.
+]	java:S125"<This block of commented-out lines of code should be removed.(Ú§å’ÿÿÿÿÿ8¢˜ÿÄİ.
